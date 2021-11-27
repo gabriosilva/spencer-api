@@ -1,5 +1,4 @@
 # spencer-api
-An api for the spencer project
 
 > An auth and notes API created for the spencer project
 
