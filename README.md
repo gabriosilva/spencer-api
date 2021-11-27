@@ -131,6 +131,7 @@
 
 ## Contributing
 Pull requests are very welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please follow [this structure](https://www.conventionalcommits.org/en/v1.0.0/) when commiting.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
