@@ -104,7 +104,7 @@ const deleteNote = async (userId, noteId) => {
     });
 
     if (noteExists) {
-      const deletedNote = await Note.deleteOne({
+      await Note.deleteOne({
         _id: noteId,
         userId: userId,
       });

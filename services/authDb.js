@@ -26,7 +26,7 @@ const register = async (username, email, password) => {
       password: hashedPassword,
     });
 
-    const savedUser = await user.save();
+    await user.save();
     return { user: user._id };
   } catch (e) {
     throw new Error(e.message);
