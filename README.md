@@ -1,6 +1,7 @@
 # spencer-api
 
 > An auth and notes API created for the [spencer](https://github.com/gabriosilva/spencer) project
+![image](https://user-images.githubusercontent.com/20153552/144161605-5e2adef7-38da-4e91-b30d-8886fa49eba5.png)
 
 ## Installation
 
